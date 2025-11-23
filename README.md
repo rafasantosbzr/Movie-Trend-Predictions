@@ -1,6 +1,6 @@
 # Análise Preditiva e Exploratória em Dados Cinematográficos  
 
-Este projeto foi desenvolvido como parte de um desafio de estágio em Ciência de Dados, com o objetivo de analisar um conjunto de dados de filmes do **IMDB** e fornecer insights valiosos a um estúdio de Hollywood.  
+Projeto de Ciência de Dados com o objetivo de analisar um conjunto de dados de filmes do **IMDB** e fornecer insights valiosos a um estúdio de Hollywood.  
 
 O foco é orientar a produção de um futuro filme, maximizando seu potencial de faturamento e sucesso.  
 
